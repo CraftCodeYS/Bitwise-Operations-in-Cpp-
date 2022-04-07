@@ -1,5 +1,4 @@
-# Bitwise-Operations-in-Cpp
-## Simple Bitwise Operations in Cpp
+# Simple Bitwise-Operations-in-Cpp
 
 ## Example OUTPUT
 Enter a number between 0 & 255: 147\
