@@ -2,8 +2,8 @@
 ## Simple Bitwise Operations in Cpp
 
 ## Example OUTPUT
-Enter a number between 0 & 255: 147
-Choose an n-th digit: 4
+Enter a number between 0 & 255: 147\
+Choose an n-th digit: 4\
 
 The position of the n-th is:  00010000
 The result of the n-th is:    00010000
